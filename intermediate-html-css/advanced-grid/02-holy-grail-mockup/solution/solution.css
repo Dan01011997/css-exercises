@@ -107,11 +107,12 @@
 }
 
 .logo {
-  justify-self: start;
+justify-self: start;
 }
 
 .menu {
   align-self: center;
+  justify-self: stretch
 }
 
 .menu ul {
